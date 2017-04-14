@@ -5,7 +5,28 @@
 	1. request/response flow
 	1. layout
 	1. individual elements
+		1. overall list
+			* Lesson
+			* Exercise
+			* Informational tip
+			* Audio
+				* recording
+				* playback
+			* Animation
+				* Non-interactive
+				* Interactive
+			* Question
+			* Answer
+				* Multiple choice response
+				* Text input
+				* Voice recording
+			* Navigation
+			* Search
+			* User management
 		1. data structures
+			* Schema
+			* Properties
+			* State
 		1. presentation
 	1. styling
 	1. interaction
